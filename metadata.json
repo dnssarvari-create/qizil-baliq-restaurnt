@@ -1,0 +1,6 @@
+{
+  "name": "Qızıl Balıq Restaurant",
+  "description": "Premium Caspian seafood and traditional Azerbaijani grilled specialties in Badamdar, Baku.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
